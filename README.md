@@ -4,7 +4,7 @@
  the titles of those images, store the scraped data on a Mongo database, use a web application 
  to display the data, and alter the design of the web app to accommodate these images.
 
-Resukts
+Results
 
 Scrape High-Resolution Mars’ Hemisphere Images and Titles
 ![image](https://user-images.githubusercontent.com/70987568/132157639-2c9ba607-185b-4a86-b959-6ae6a6b56339.png)
